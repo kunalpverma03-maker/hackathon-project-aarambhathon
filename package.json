@@ -1,9 +1,0 @@
-{
-  "name": "accessify-frontend",
-  "version": "1.0.0",
-  "description": "Accessify local prototype frontend",
-  "private": true,
-  "scripts": {
-    "build": "echo 'No build step required for static HTML'"
-  }
-}
