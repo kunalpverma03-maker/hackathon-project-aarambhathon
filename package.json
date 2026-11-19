@@ -1,0 +1,12 @@
+{
+  "name": "accessify-app",
+  "version": "1.0.0",
+  "description": "Accessify learning companion",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
